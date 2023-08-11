@@ -1,0 +1,6 @@
+[submodule "mlx42"]
+	path = mlx42
+	url = https://github.com/42Paris/minilibx-linux
+[submodule "libft"]
+	path = libft
+	url = https://github.com/MaloP47/libft
